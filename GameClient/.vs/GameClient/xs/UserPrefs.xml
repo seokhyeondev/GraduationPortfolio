@@ -1,0 +1,59 @@
+﻿<Properties StartupConfiguration="{70B263AF-5707-DA2D-B24B-B59941E3F798}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Creator Kit - Beginner Code/Scripts/CharacterSystem/BaseElementalEffect.cs">
+    <Files>
+      <File FileName="Assets/Creator Kit - Beginner Code/Scripts/Characters/Player/CharacterControl.cs" Line="12" Column="34" />
+      <File FileName="Assets/Creator Kit - Beginner Code/Scripts/ResourceManager.cs" />
+      <File FileName="Assets/Creator Kit - Beginner Code/Scripts/HighlightableObject.cs" />
+      <File FileName="Assets/Creator Kit - Beginner Code/Scripts/AddHealthUsageEffect.cs" />
+      <File FileName="Assets/Creator Kit - Beginner Code/Scripts/Characters/TrainingDummy.cs" />
+      <File FileName="Assets/Creator Kit - Beginner Code/Scripts/Characters/SimpleEnemyController.cs" />
+      <File FileName="Assets/Creator Kit - Beginner Code/Scripts/Characters/Player/AttackState.cs" />
+      <File FileName="Library/PackageCache/com.unity.render-pipelines.universal@7.3.1/Runtime/UniversalAdditionalCameraData.cs" />
+      <File FileName="Assets/Creator Kit - Beginner Code/Scripts/CharacterSystem/CharacterData.cs" />
+      <File FileName="Assets/Creator Kit - Beginner Code/Scripts/CharacterSystem/EquipmentSystem.cs" Line="1" Column="1" />
+      <File FileName="Assets/Creator Kit - Beginner Code/Scripts/CharacterSystem/BaseElementalEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets/Creator Kit - Beginner Code/Scripts/Client/Account.cs" Line="21" Column="2" />
+      <File FileName="Assets/Creator Kit - Beginner Code/Scripts/Client/Char.cs" Line="1" Column="1" />
+      <File FileName="Assets/Creator Kit - Beginner Code/Scripts/Client/Client.cs" />
+      <File FileName="Assets/Creator Kit - Beginner Code/Scripts/Client/headers/InHeader.cs" />
+      <File FileName="Assets/Creator Kit - Beginner Code/Scripts/Client/headers/OutHeader.cs" />
+      <File FileName="Assets/Creator Kit - Beginner Code/Scripts/Client/Packets/InPacket.cs" />
+      <File FileName="Assets/Creator Kit - Beginner Code/Scripts/LoginScript.cs" Line="58" Column="33" />
+      <File FileName="Assets/Creator Kit - Beginner Code/Scripts/Client/Packets/OutPacket.cs" Line="101" Column="11" />
+      <File FileName="Assets/Creator Kit - Beginner Code/Scripts/Client/Packets/PacketBase.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GameClient" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Creator Kit - Beginner Code" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Characters" expanded="True">
+                    <Node name="Player" expanded="True" />
+                  </Node>
+                  <Node name="CharacterSystem" expanded="True">
+                    <Node name="BaseElementalEffect.cs" selected="True" />
+                  </Node>
+                  <Node name="Client" expanded="True">
+                    <Node name="headers" expanded="True" />
+                    <Node name="Packets" expanded="True" />
+                  </Node>
+                  <Node name="enums" expanded="True" />
+                  <Node name="GameplayObject" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e0af81a2-d685-4a46-bca3-442edbef74ec" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
